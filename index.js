@@ -78,8 +78,7 @@ function formattedFile(answers) {
 
 function generateReadme(answers) {
     return `
-    
-    # ${answers.title}
+    # ${answers.name}
     ${badgeIcon}  
     URL: ${answers.url}
     ## Description:
