@@ -77,31 +77,32 @@ function formattedFile(answers) {
 
 
 function generateReadme(answers) {
+  formattedFile(answers);
     return `
-    # ${answers.name}
-    ${badgeIcon}  
-    URL: ${answers.url}
-    ## Description:
-    ${answers.description}
-    ## Table of Contents:
-    * Installation
-    * Usage
-    * Test Instructions
-    * Contribution Guidelines
-    * License
-    * Contact
-    ## Installation Instructions:
-    ${answers.installation}
-    ## Usage Information:
-    ${answers.usage}
-    ## Test Instructions:
-    ${answers.test}
-    ## Contribution Guidelines:
-    ${answers.contribution}
-    ## License: ${answers.license}
-    ## Contact: 
-    GitHub: [${answers.github}](https://github.com/${answers.github})
-    For additional questions please contact: ${answers.email}`
+# ${answers.name}
+${badgeIcon}  
+URL: ${answers.url}
+## Description:
+${answers.description}
+## Table of Contents:
+* Installation
+* Usage
+* Test Instructions
+* Contribution Guidelines
+* License
+* Contact
+## Installation Instructions:
+${answers.installation}
+## Usage Information:
+${answers.usage}
+## Test Instructions:
+${answers.test}
+## Contribution Guidelines:
+${answers.contribution}
+## License: ${answers.license}
+## Contact: 
+GitHub: (https://github.com/${answers.github})
+For additional questions please contact: ${answers.email}`
      
 }
 

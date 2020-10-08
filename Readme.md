@@ -1,25 +1,25 @@
 
-    # readme
-      
-    URL: github.com/kwakuasare/readmegenerator
-    ## Description:
-    users can dynamically generate reademe
-    ## Table of Contents:
-    * Installation
-    * Usage
-    * Test Instructions
-    * Contribution Guidelines
-    * License
-    * Contact
-    ## Installation Instructions:
-    npm
-    ## Usage Information:
-    command line application
-    ## Test Instructions:
-    jest
-    ## Contribution Guidelines:
-    contribute
-    ## License: MIT
-    ## Contact: 
-    GitHub: [kwakuasare](https://github.com/kwakuasare)
-    For additional questions please contact: lilkwaku55@yahoo.com
+# a
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
+URL: a
+## Description:
+a
+## Table of Contents:
+* Installation
+* Usage
+* Test Instructions
+* Contribution Guidelines
+* License
+* Contact
+## Installation Instructions:
+a
+## Usage Information:
+a
+## Test Instructions:
+a
+## Contribution Guidelines:
+a
+## License: MIT
+## Contact: 
+GitHub: (https://github.com/a)
+For additional questions please contact: a
