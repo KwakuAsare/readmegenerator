@@ -5,12 +5,12 @@ URL: a
 ## Description:
 a
 ## Table of Contents:
-* Installation
-* Usage
-* Test Instructions
-* Contribution Guidelines
-* License
-* Contact
+* [Installation](#installation-instructions) 
+* [Usage](#usage-information)
+* [Test Instructions](#test-instructions)
+* [Contribution Guidelines](#contribution-guidelines)
+* [License](#license)
+* [Contact](#contact)
 ## Installation Instructions:
 a
 ## Usage Information:
